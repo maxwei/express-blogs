@@ -1,0 +1,10 @@
+#gitingnore file
+node_modules/
+dist/
+dist*.zip
+.cache/
+.vscode/
+.idea
+.DS_Store
+package-lock.json
+yarn-error.log
